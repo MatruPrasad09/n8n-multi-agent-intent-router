@@ -1,0 +1,21 @@
+# Environments
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv-*/
+
+# macOS
+.DS_Store
+
+# Evaluation Results
+eval_quality_results.csv
+
+# Node
+node_modules/
